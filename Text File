@@ -1,0 +1,68 @@
+{
+    title : "c++",
+    postId : NumberInt(3511),
+    comments : 10,
+    shared : true,
+    tags :[
+        "javascript",
+        "programming"
+        ],
+    author : {
+    name : "Mike",
+    nickname : "mikef"
+    }
+    
+}
+
+{
+    title : "java",
+    postId : NumberInt(2618),
+    comments : 0,
+    shared : false,
+    tags :[],
+    author : {
+        name : "emily",
+        nickname : "emily23"
+    }
+    
+}
+
+{
+    title : "php",
+    postId : NumberInt(8451),
+    comments : 2,
+    shared : false,
+    tags :["programming","coding"],
+    author : {
+        name : "emily",
+        nickname : "emily23"
+    }
+    
+}
+
+
+{
+    title : "frontend developer",
+    postId : NumberInt(234),
+    comments : 5,
+    shared : false,
+    tags :["programming","coding"],
+    author : {
+        name : "tom",
+        nickname : "tom123"
+    }
+    
+}
+
+{
+    title : "backend developer",
+    postId : NumberInt(3223),
+    comments : 8,
+    shared : true,
+    tags :["programming","coding"],
+    author : {
+        name : "jack",
+        nickname : "jack4321"
+    }
+    
+}
